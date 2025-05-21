@@ -12,18 +12,17 @@ To write a Python program that calculates the **area of a circle** based on the 
 
 ## 🧾 Program
 ```
-import math
-class Saveetha:
-    def __init__(self, r):
-        self.area = math.pi * (r ** 2) 
-    def slot(self):
-        print("Area of circle:", round(self.area, 2))
-r = float(input())
-res = Saveetha(r)  
-res.slot()
+import math class cse(): 
+def mech(Self,num): 
+   a=math.pi*num*num
+   print(f"Area of circle: {a:.2f}") 
+r=int(input())
+obj=cse()
+obj.mech(r) 
 ```
+
 ## Output
-![Screenshot (144)](https://github.com/user-attachments/assets/353bddc7-e4f1-469f-9c7d-f8967d7e1aa3)
+![image](https://github.com/user-attachments/assets/c4983bc1-3703-4da4-b4cb-4c8dccf2035f)
 
 ## Result
-Thus,the program has been executed successfully.
+Thus, the program has been successfully executed.
